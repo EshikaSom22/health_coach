@@ -1,0 +1,85 @@
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans:wght@500&display=swap');
+*{margin: 0;padding: 0;}
+.block{
+  font-family: 'Open Sans', sans-serif;
+  background-color: #ecf6f9;
+  height: 430px;
+  width: 330px;
+  margin-left: 60%;
+  margin-top: 8%;
+}
+.container1{
+  margin-left: 30px;
+  padding: 5px;
+  margin-bottom: 5px;
+}
+.container2{
+  margin-left: 30px;
+  padding: 5px;
+  margin-bottom: 5px;
+}
+.one{
+  margin-bottom: 15px;
+}
+.two{
+  margin-bottom: 40px;
+}
+.heading{
+  color: #4c63e4;
+  font-size: 20px;
+  padding: 30px;
+  margin-bottom: 20px;
+  margin-left: 5px;
+  font-weight: bold;
+}
+.button{
+  background-color: #4c63e4;
+  color: white;
+  height: 40px;
+  margin-left: 30px;
+  width: 262px;
+  margin-top: 60px;
+}
+.btn{
+  text-align: center;
+  padding: 7px;
+}
+.msg{
+float: left;
+margin-left: 20%;
+margin-top: 12%;
+font-family: 'Open Sans', sans-serif;
+}
+.msg1{
+  font-weight: bold;
+}
+.circle{
+  background-color: rgba(155, 154, 159, 0.539);
+  border-radius: 50%;
+  width: 100px;
+  height: 100px;
+  padding: 5px;
+  margin-bottom: 10px;
+}
+.input-icons i {
+  position: absolute;
+  margin-left: 38px;
+  margin-top: 6px;
+}
+
+.input-icons {
+  width: 100%;
+  margin-bottom: 0px;
+}
+
+.icon {
+  padding: 20px;
+  min-width: 40px;
+}
+
+.input-field {
+  width: 250px;
+  padding: 5px;
+  text-align: center;
+  margin-left: 30px;
+}
