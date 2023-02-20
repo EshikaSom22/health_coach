@@ -83,3 +83,10 @@ font-family: 'Open Sans', sans-serif;
   text-align: center;
   margin-left: 30px;
 }
+.eye{
+  position:absolute;
+  margin-right: 200px;
+}
+#hide1{
+  display: none;
+}
